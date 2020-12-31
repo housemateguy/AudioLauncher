@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Audio Launcher</string>
+    <string name="title_activity_intro">Intro</string>
+    <string name="title_activity_meteo">MeteoActivity</string>
+    <string name="title_activity_phone_call">PhoneCallActivity</string>
+</resources>
